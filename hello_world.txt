@@ -1,1 +1,1 @@
-Le epic random text
+Testing out writing commit messages through VSCode.
